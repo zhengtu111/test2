@@ -1,0 +1,14 @@
+[
+{
+  "directory": "F:/zhengtu/Thu/04PhD/git/test2/build",
+  "command": "D:\\mingw\\ucrt64\\bin\\c++.exe  @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -o CMakeFiles\\MyProject.dir\\src\\main.cpp.obj -c F:\\zhengtu\\Thu\\04PhD\\git\\test2\\src\\main.cpp",
+  "file": "F:/zhengtu/Thu/04PhD/git/test2/src/main.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/main.cpp.obj"
+},
+{
+  "directory": "F:/zhengtu/Thu/04PhD/git/test2/build",
+  "command": "D:\\mingw\\ucrt64\\bin\\c++.exe  @CMakeFiles/MyProject.dir/includes_CXX.rsp -g -o CMakeFiles\\MyProject.dir\\src\\swap.cpp.obj -c F:\\zhengtu\\Thu\\04PhD\\git\\test2\\src\\swap.cpp",
+  "file": "F:/zhengtu/Thu/04PhD/git/test2/src/swap.cpp",
+  "output": "CMakeFiles/MyProject.dir/src/swap.cpp.obj"
+}
+]

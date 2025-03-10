@@ -1,0 +1,3 @@
+F:/zhengtu/Thu/04PhD/git/test2/build/CMakeFiles/MyProject.dir
+F:/zhengtu/Thu/04PhD/git/test2/build/CMakeFiles/edit_cache.dir
+F:/zhengtu/Thu/04PhD/git/test2/build/CMakeFiles/rebuild_cache.dir
